@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab</string>
+    <string name="moj_tekst">Hello</string>
+    <string name="moj_tekst2">Sun</string>
+    <string name="moj_tekst4">Telephone</string>
+    <string name="moj_tekst3">fruit</string>
+</resources>
